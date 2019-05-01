@@ -59,7 +59,6 @@ fastlane/test_output
 fastlane/readme.md
 
 #others
-.gradle/
 app/build
 app/src/androidTest/
 app/src/test/
