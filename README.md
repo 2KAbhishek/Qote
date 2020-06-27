@@ -1,5 +1,3 @@
-<div align="center">
-
 # Qote
 
 ![Size](https://img.shields.io/github/repo-size/2kabhishek/Qote?style=plastic&color=0f0&label=Size)
@@ -13,7 +11,6 @@
 Qote is light weight quick notes app for Android.
 ![Qote](app/src/main/res/mipmap-xhdpi/qote.png)
 
-</div>
 
 It can save, modify and delete notes. It uses SQLite for these.
 It also shows the time stamp of when the note was last modified.
@@ -25,5 +22,4 @@ App Name - Qote
 Package Name – com.abhishek2k.qote
 Min Sdk Version - 16
 
-Please consider hitting the ⭐ star button if this repo was useful to you, any contributions and suggestions are welcome.
 
