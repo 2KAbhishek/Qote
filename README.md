@@ -11,7 +11,6 @@
 Qote is light weight quick notes app for Android.
 ![Qote](app/src/main/res/mipmap-xhdpi/qote.png)
 
-
 It can save, modify and delete notes. It uses SQLite for these.
 It also shows the time stamp of when the note was last modified.
 Its layout is adaptive and works well across phones and tablets both in portrait and landscape orientations.
@@ -21,5 +20,3 @@ Its layout is adaptive and works well across phones and tablets both in portrait
 App Name - Qote
 Package Name – com.abhishek2k.qote
 Min Sdk Version - 16
-
-
